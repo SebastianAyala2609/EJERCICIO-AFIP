@@ -293,38 +293,4 @@ if monotributo_unificado == "SI" or monotributo_unificado == "si" or monotributo
      print("Estas adherido al monotributo unificado")
 else: 
      print("No te encontras adherido al monotributo unificado")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-if categoria_actual < cat_a[31] or categoria_actual < cat_b[31] or  categoria_actual < cat_c[31] or categoria_actual < cat_d[31]:
-     print("Lo siento, has subido de categoria.")
-elif categoria_actual < cat_e[31] or categoria_actual < cat_f[31] or  categoria_actual < cat_g[31] or categoria_actual < cat_h[31]:
-     print("Lo siento, has subido de categoria.")
-elif categoria_actual < cat_i[31] or categoria_actual < cat_j[31] or  categoria_actual < cat_k[31]:
-     print("Lo siento, has subido de categoria.")
-
-elif categoria_actual > cat_a[31] or categoria_actual > cat_b[31] or  categoria_actual > cat_c[31] or categoria_actual > cat_d[31]:
-     print("Felicidades, has decendido de categoria.")
-elif categoria_actual > cat_e[31] or categoria_actual > cat_f[31] or  categoria_actual > cat_g[31] or categoria_actual > cat_h[31]:
-     print("Felicidades, has decendido de categoria.")
-elif categoria_actual > cat_i[31] or categoria_actual > cat_j[31] or  categoria_actual > cat_k[31]:
-     print("Felicidades, has decendido de categoria.")
-
-else: 
-     print("Has mantenido tu categoria.")
-"""
-
+    
